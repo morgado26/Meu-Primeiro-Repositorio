@@ -1,0 +1,31 @@
+
+body{
+    background-color: #e5668a;
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formbox{
+    width: 500px;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e5668a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightgray;
+    border-radius: 10px;
+}
